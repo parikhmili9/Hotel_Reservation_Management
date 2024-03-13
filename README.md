@@ -1,4 +1,4 @@
-# FINAL PROJECT - HOTEL MANAGEMENT APPLICATION
+# HOTEL MANAGEMENT APPLICATION
 By Mili Bimal Parikh AND Mahta Maymandi Nejad
 
 ## Overview
